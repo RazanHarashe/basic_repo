@@ -1,0 +1,17 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+h1{
+    color: white;
+    background-color: black;
+}
+
+span{
+    color: cornflowerblue;
+}
+
+p{
+    background-color: cornflowerblue;
+}
